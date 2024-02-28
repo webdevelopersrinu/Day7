@@ -1,0 +1,2 @@
+time complexity:-
+Time complexity is a measure of how the runtime of an algorithm or function grows as the size of its input increases. It's often represented using Big O notation, where O(n) signifies linear time complexity, O(n^2) quadratic time complexity, O(log n) logarithmic time complexity, etc. It helps in understanding how an algorithm scales with input size, aiding in comparing and selecting algorithms for various tasks.
